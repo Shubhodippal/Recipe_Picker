@@ -1,0 +1,13 @@
+Side Dish
+Appetizer
+Main Course
+Lunch
+Dinner
+Dessert
+Indian Breakfast
+North Indian Breakfast
+South Indian Breakfast
+World Breakfast
+One Pot Dish
+Snack
+Brunch
