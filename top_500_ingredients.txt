@@ -124,7 +124,7 @@ oil: 94 times
 White Urad Dal sprig Curry: 93 times
 Bottle gourd: 92 times
 Cumin seeds sprig Curry: 91 times
-tasteÂ: 91 times
+tasteï¿½: 91 times
 Green Moong Dal: 90 times
 Mutton: 90 times
 grated: 87 times
@@ -159,7 +159,7 @@ Bay leaf: 64 times
 Amchur Salt: 63 times
 Mooli/ Mullangi: 62 times
 Cumin seeds Dry Red Chillies: 62 times
-choppedÂ: 62 times
+choppedï¿½: 62 times
 Ragi Flour: 61 times
 Khoya: 61 times
 Cinnamon Stick Cloves: 61 times
@@ -287,7 +287,7 @@ Rasam Powder: 31 times
 Asafoetida Green Chillies: 31 times
 Broken Wheat: 31 times
 Dough: 30 times
-cookingÂ: 30 times
+cookingï¿½: 30 times
 Sesame Oil Salt: 30 times
 Red Chilli: 30 times
 sugar syrup: 30 times
@@ -295,7 +295,7 @@ Mustard seeds Salt: 30 times
 Baby corn: 30 times
 Salt Oil: 29 times
 Seeds Black cardamom: 29 times
-Â: 29 times
+ï¿½: 29 times
 Oil Water: 29 times
 Baking soda: 29 times
 Cumin seeds Asafoetida: 29 times
