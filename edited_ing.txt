@@ -1,6 +1,5 @@
 Top 1000 most commonly used ingredients:
 Turmeric powder: 2482 times
-Oil: 1948 times
 Red Chilli powder: 1927 times
 Ginger: 1699 times
 Mustard seeds: 1470 times
@@ -120,11 +119,9 @@ Jaggery Salt: 96 times
 grated Salt: 96 times
 ground: 94 times
 Lemon juice Salt: 94 times
-oil: 94 times
 White Urad Dal sprig Curry: 93 times
 Bottle gourd: 92 times
 Cumin seeds sprig Curry: 91 times
-taste�: 91 times
 Green Moong Dal: 90 times
 Mutton: 90 times
 grated: 87 times
@@ -137,8 +134,6 @@ Asafoetida sprig Curry: 80 times
 florets: 80 times
 Poha: 79 times
 Cloves: 78 times
-minutes: 77 times
-adjustable: 76 times
 Mustard oil Salt: 75 times
 Cabbage: 74 times
 Cumin powder Salt: 74 times
@@ -296,7 +291,6 @@ Baby corn: 30 times
 Salt Oil: 29 times
 Seeds Black cardamom: 29 times
 �: 29 times
-Oil Water: 29 times
 Baking soda: 29 times
 Cumin seeds Asafoetida: 29 times
 lengthwise: 29 times
@@ -533,7 +527,7 @@ Black Peppercorns Salt: 12 times
 Badi: 12 times
 hot: 12 times
 bite: 12 times
-Ghee Ingredients: 12 times
+Ghee: 12 times
 Tamarind Water Tomatoes: 12 times
 marinade: 12 times
 medium sized pieces: 12 times
@@ -665,7 +659,6 @@ Jackfruit Ripe: 10 times
 few strands: 10 times
 Brown Sugar: 10 times
 pistachios: 10 times
-min: 10 times
 Coconut Salt: 9 times
 florets Carrots: 9 times
 Ginger Onions: 9 times
@@ -937,7 +930,6 @@ Kasuri Methi Coriander Leaves: 6 times
 Pulao: 6 times
 Gravy Onion: 6 times
 Sesame seeds sprig Curry: 6 times
-fried: 6 times
 Mixed Herbs: 6 times
 Black Peppercorns Green Chilli: 6 times
 rock salt: 6 times
@@ -971,7 +963,6 @@ Asafoetida sprig Curry Dry Red Chillies Oil: 6 times
 florets Potato: 6 times
 julienned: 6 times
 Oil Bay leaf: 6 times
-required�: 6 times
 Ingredients Roast: 6 times
 Seeds Garlic: 6 times
 green masala: 6 times
@@ -983,7 +974,7 @@ Leftover roti: 6 times
 Kashmiri Red Chilli Powder Green Chilli: 6 times
 Kabuli Chana Onion: 6 times
 Kaffir lime leaves: 6 times
-liters Milk: 6 times
+Milk: 6 times
 cheela: 6 times
 Sorrel Leaves: 6 times
 deep Salt: 6 times
@@ -992,9 +983,6 @@ Curd Green Chilli: 6 times
 Cashew nuts Onion: 6 times
 Milk Saffron strands: 6 times
 paratha: 6 times
-Eggs Salt: 6 times
-broken Salt: 6 times
-few Ingredients: 6 times
 Chettinad Masala: 6 times
 Mace powder: 6 times
 Pakoras: 6 times
