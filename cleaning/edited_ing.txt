@@ -19,9 +19,6 @@ Cumin powder
 Tomato
 Green Chilli
 White Urad Dal
-Turmeric powder Salt
-Ginger
-Seeds
 Black Peppercorns
 Cardamom Powder
 Cashew nuts
@@ -49,7 +46,6 @@ Paneer
 sprig Coriander Leaves
 Ajwain
 Coconut Oil
-Fresh
 Potato
 Mint Leaves
 Kashmiri Red Chilli Powder
@@ -101,7 +97,6 @@ grated Salt
 Lemon juice Salt
 White Urad Dal sprig Curry
 Bottle gourd
-Cumin seeds sprig Curry
 Green Moong Dal
 Mutton
 Black Urad Dal
@@ -113,7 +108,6 @@ florets
 Poha
 Cloves
 Cabbage
-Cumin powder Salt
 Hung Curd
 Kabuli Chana
 Dry ginger powder
@@ -127,7 +121,6 @@ Coriander
 Bay leaf
 Amchur Salt
 Mooli/ Mullangi
-Cumin seeds Dry Red Chillies
 Ragi Flour
 Khoya
 Cinnamon Stick Cloves
@@ -142,8 +135,7 @@ Cinnamon Stick Cloves Cardamom Pods
 rice
 Lemon
 Poppy seeds
-Cumin seeds Green Chillies
-Cumin seeds Salt
+Green Chillies
 Saffron strands
 Drumstick
 Cucumber
@@ -159,7 +151,6 @@ Mixed nuts
 Mustard seeds Dry Red Chillies
 Shallots
 Raw Banana
-Cumin seeds Onion
 tadka
 Cinnamon Stick Bay leaf
 tempering
@@ -171,8 +162,9 @@ Enos Fruit Salt
 Panch Phoran Masala
 Sambar Powder Salt
 Ridge Gourd
-Turmeric powder Green Chillies
-Coriander Seeds Dry Red Chillies
+Green Chillies
+Coriander Seeds 
+Dry Red Chillies
 Tadka
 wedges
 Baby Potatoes
@@ -182,7 +174,6 @@ Milk Powder
 Wheat Flour Salt
 Roasted Gram Dal
 SSP Asafoetida
-Cumin seeds Dry Red Chilli
 Corn flour
 Broccoli
 Black Eyed Beans
@@ -191,12 +182,11 @@ Mustard seeds Asafoetida
 Green Moong Sprouts
 Chicken breasts
 Horse Gram Dal
-Cumin seeds Green Chilli
-Ginger Green Chillies
+Green Chilli
+Green Chillies
 White Urad Dal Dry Red Chillies
 Idli Dosa Batter
 Caster Sugar
-Turmeric powder Oil
 Honey
 Bajra Flour
 Kasuri Methi Salt
@@ -210,14 +200,11 @@ Mustard seeds Dry Red Chilli
 Maharashtrian Goda Masala
 Colocasia root
 Vinegar
-Cumin seeds Curry
 Semiya
 chunks
 Red Chilli powder Green Chillies
 Drumstick Leaves
 Mustard seeds Curry
-Mixed vegetables
-cubes Onion
 Active dry yeast
 Foxtail Millet
 Asafoetida Oil
@@ -231,29 +218,25 @@ sugar syrup
 Baby corn
 Seeds Black cardamom
 Baking soda
-Cumin seeds Asafoetida
 Buttermilk
 Tempering
 Cooked rice
-Asafoetida Onion
 torn
 dosa
 Cardamom Powder Saffron strands
 Boneless chicken
 Fresh cream Salt
-pieces Onion
 Cinnamon Stick Salt
 Methi Seeds Salt
 Dill leaves
-Asafoetida Curry
+Asafoetida
 Gravy
 Oil sprig Coriander Leaves
 grated Coriander Leaves
 Coconut Oil Salt
 Avarekalu
-Eggs Onion
+Eggs 
 Red matta rice
-Turmeric powder Curry
 Gawar Phali
 Pineapple
 Wheat Flour Water
@@ -274,8 +257,7 @@ Seeds Bay leaves
 Banana Stem
 Chana dal Dry Red Chillies
 slit Salt
-Spring Onion Greens
-Cumin seeds Bay leaf
+Greens Bay leaf
 Soy Chunks
 Temper
 slit sprig Curry
@@ -297,12 +279,9 @@ slit lengthwise
 Seeds Bay leaf
 Phool Makhana
 Tomato Ketchup
-Arhar dal Onion
-Cumin seeds Cardamom Pods
+Arhar dal
 Lemon juice sprig Coriander Leaves
-Few
 Dosa rice
-dices
 powdered
 Chironji
 Cardamom Powder Saffron
@@ -313,32 +292,28 @@ puree
 Black Peppercorns Cardamom Pods
 Handful
 shallow frying
-Turmeric powder sprig Coriander Leaves
+sprig Coriander Leaves
 Walnuts
 Mustard seeds Oil
 Cooking soda
 Lemon juice Coriander Leaves
 Chicken
 Fish
-Turmeric powder Onion
-Homemade tomato puree Onion
-Ghee Onion
+Homemade tomato puree
 Black Pepper Corns
 Pink Masoor Dal
 Mustard seeds Green Chillies
-Rice flour Salt
+Rice flour
 Garnish
 Sweet Potato
 Garam masala powder Coriander Leaves
-hour
 Lilva Beans
-oil Salt
 Egg
 Pepper
-Ghee Cashew nuts
+Cashew nuts
 Mustard seeds Green Chilli
 Vanilla Extract
-Turmeric powder Coriander Leaves
+Coriander Leaves
 Dry Red Chillies Garlic
 Barnyard Millet
 slit cloves Garlic
@@ -351,7 +326,7 @@ Coriander Seeds Dry Red Chilli
 Coriander Seeds Cloves
 roasted Salt
 Ground
-Turmeric powder Green Chilli
+Green Chilli
 Turnips
 Asafoetida Green Chilli
 Mace
@@ -365,7 +340,7 @@ batter
 Coriander Salt
 Broken Raw Rice
 Sugar Syrup
-Cinnamon Stick Onion
+Cinnamon Stick
 Red Chilli powder Oil
 Fresh Red chillies
 Black Salt
@@ -374,13 +349,12 @@ Methi Powder
 florets Potatoes
 Makki Ka Atta
 blanched
-Green peas Onion
+Green peas
 Ragi Seeds
 Black Rice
 Enos Fruit Salt Salt
 coconut masala
 Kadhi
-Cumin seeds Oil
 parathas
 Govind Bhog Rice
 Mustard seeds Dry Red Chillies sprig Curry
@@ -391,39 +365,32 @@ Milk
 bone
 coconut
 strips
-Asafoetida Dry Red Chilli
-Cumin seeds Cloves
-Asafoetida Garlic
-Gram flour Salt
-dry
+Asafoetida
+Cloves
 Coconut milk
 Fennel seeds Cardamom Pods
-Cardamom Powder Ghee
+Cardamom Powder
 Almond Meal
-Turmeric powder sprig Curry
 Mutton
 gooseberry
-Sesame seeds Dry Red Chillies
+Sesame seeds 
+Dry Red Chillies
 Mustard seeds sprig Curry Salt
-Filling
 Green brinjal
 Kala jeera
 Sesame seeds Salt
-onions
 Nutmeg
 florets Onion
-Turmeric powder Lemon
 Banana flower
-Turmeric powder Red Chilli powder
-Bay leaf Cardamom Pods
-Ginger Salt
-Cinnamon Stick Black cardamom
-Leaf
+Red Chilli powder
+Bay leaf
+Cinnamon Stick Black 
+cardamom Leaf
 bones
 Tandoori masala
-cloves Garlic Green Chilli
+cloves Garlic 
+Green Chilli
 Red Chilli sauce
-Cumin seeds Curry leaves
 Green peas Green Chillies
 Asafoetida Dry Red Chillies
 Shrimps
@@ -434,40 +401,25 @@ ground masala
 Red Amaranth Leaves
 Black Peppercorns Salt
 Badi
-hot
-bite
-Ghee
 Tamarind Water Tomatoes
 marinade
-medium sized pieces
-Gram flour Green Chilli
-hours Onion
 Grated
-cubes Potatoes
+Potatoes
 Mooli Ke Patte
-slices
 Chenna
 Mustard seeds Dry Red Chillies Curry
 Fennel seeds Onion
-slit Tomato
 Rice rava
 Fresh Pomegranate Fruit Kernels
-Pearl onions Garlic
 Palm jaggery
 White Urad Dal Green Chillies
 Soybeans
-green
-seeds
 Seeds Star anise
-Bay leaves Cardamom Pods
-Sugar Cardamom Pods
-Ginger Garlic Green Chillies
+Garlic Green Chillies
 Soy
-Oil sprig Curry
-Vegetables
+sprig Curry
 Groundnut powder
 mortar
-Cumin seeds Onions
 Jowar Seeds
 Avarekai
 juice sprig Coriander Leaves
@@ -475,22 +427,18 @@ Bajra
 Chow chow
 garnish sprig Coriander Leaves
 Apples
-few drops
 Snake gourd
 buttermilk
 Amla
 Green Chutney
-Grind
 Yellow Bell Pepper
 Lotus Stem
-Fresh coconut Dry Red Chillies
-slit Dry Red Chillies
+Fresh coconut
+Dry Red Chillies
 Black Peppercorns Tamarind
 Cinnamon Stick Cloves Bay leaf
 Cinnamon Stick Bay leaves
-Cumin seeds Coriander Leaves
 garnishingCoriander Leaves
-Homemade tomato puree Salt
 Mustard seeds Curry leaves
 Mozzarella cheese
 Cheese
@@ -503,41 +451,31 @@ Black sesame
 Garam masala powder Water
 Panch Phoran Masala Salt
 Kashmiri dry red chillies
-Sugar Saffron
-Cumin powder sprig Coriander Leaves
+Saffron
 pieces Tomatoes
 vegetable oil
-Green Chillies Salt
+Green Chillies
 Lemon juice Oil
 gatte
 Green bell peppers
 SSP Asafoetida Salt
 big pieces
-Gram flour Onion
 Water Saffron strands
-gravy Onion
-halves
 Asafoetida sprig Coriander Leaves
-Ginger Green Chilli
-Water Green Chillies
+Green Chillies
 Hilsa Fish
-Water Ingredients
 Gond
 Melon
 Yellow mustard
 thin strips
-Honey Salt
+Honey
 squares
 Ripe Bananas
 Jackfruit Seeds
 Green Chillies Garlic
-medium sized
 Cardamom Powder Cashew nuts
-slit Tomatoes
-Ajwain Onion
+Ajwain 
 Cinnamon Stick Green Chillies
-Turmeric powder Tomato
-pieces Potatoes
 Green zucchini
 Kasuri Methi Oil
 Rose Petals
@@ -555,25 +493,18 @@ Brown Sugar
 pistachios
 Coconut Salt
 florets Carrots
-Ginger Onions
-Red Chilli powder Tomatoes
-Red Chilli powder Dry Red Chillies
-Cinnamon Stick Dry Red Chillies
-Cinnamon Stick Garlic
-Cumin seeds Bay leaves
+Dry Red Chillies
 pulp
 paneer
 clove Garlic
 Sardine fish
-Oil Green Chilli
+Green Chilli
 Yellow Moong Dal Salt
-Turmeric powder Cardamom Pods
+Cardamom Pods
 Black pepper
 Seeds Cloves Bay leaf
-Brinjal Onion
-Turmeric powder Lemon juice
+Lemon juice
 Fish fillet
-Cumin seeds
 Fresh Red Chilli
 Seeds Dry Red Chillies
 Dried Figs
@@ -589,61 +520,44 @@ Dry ginger powder Salt
 Coconut Oil Curry
 roast
 Red Chilli powder Coriander Leaves
-White Urad Dal Ingredients
+White Urad Dal 
 Black pepper powder sprig Coriander Leaves
-Ajwain Salt
+Ajwain 
 White Urad Dal sprig Curry Dry Red Chilli
 Green Chawli Beans
 pinch�
-adjustable Salt
 chunks cloves Garlic
 Mustard seeds Dry Red Chilli sprig Curry
 Green peas Carrot
 Badi hari mirch
-Sugar cloves Garlic
-Seasoning/ Tadka
 Cinnamon Stick Bay leaf Cardamom Pods
-Turmeric powder sprig Curry Salt
 marble sized ball
 Seeds Onion
-Coconut milk Onion
+Coconut milk 
 Arhar dal Tomato
-garlic
-Turmeric powder Dry Red Chilli
+Dry Red Chilli
 Plantain Stem
 White Urad Dal Asafoetida
-length
-Brinjal Onions
 sprig Curry Salt
-Wheat Flour Onion
+Wheat Flour 
 White pepper powder
 Meat masala
-Curd Onion
 dough Oil
-Sugar Coriander Leaves
 Coconut Masala
 cubes Carrot
 Flat Green Beans
 Cinnamon Stick Cloves Salt
-Water Oil
-Mustard seeds sprig Curry Onion
+Mustard seeds 
 ghee Salt
 Mackerel fish
-Black Peppercorns Onion
-pan Ingredients
+Black Peppercorns
 julienne
 kadhi
 Red Chilli powder Bay leaf
-Turmeric powder Cloves
-slit length wise
-Asafoetida Dry Red Chillies sprig Curry
-Other ingredients
-Mustard seeds Onion
-Cumin seeds Tomato
+Cloves
 Green Chilli Garlic
 Raw Peanuts sprig Curry
-Green Moong Dal Onion
-minutes Onion
+Green Moong Dal
 Tinda
 Sev
 Pav bhaji masala
@@ -651,25 +565,17 @@ Rajgira Flour
 pestle
 Dal
 dough Ghee
-Cumin powder Oil
 Red Chilli powder sprig Curry
 Buckwheat Flour
 Cinnamon Stick sprig Curry
-Methi Seeds Water
-+
-flavour
+Methi Seeds 
 Moth Dal
 White Urad Dal Curry leaves
 Kalonji Green Chillies
 Soy sauce
-ball
 Cardamom Powder Salt
 Seeds Cinnamon Stick
-Ginger Garlic Onion
-Cumin seeds Curry Salt
 Byadagi Dried Chillies
-Turmeric powder Asafoetida
-room temperature
 Mustard oil Coriander Leaves
 syrup
 few Coriander Leaves
@@ -678,7 +584,6 @@ Del Monte
 Cardamom Powder Mixed nuts
 Gulkand
 Boondi
-pieces Tomato
 Mint Leaves Green Chillies
 coconut milk
 Red Poha
@@ -710,37 +615,28 @@ dal
 Mustard seeds Curry Dry Red Chillies
 Red Chilli powder cloves Garlic
 Wheat Bread crumbs
-Ghee Onions
 potatoes
-pieces Onions
-medium pieces Onions
-Ghee Dry Red Chillies
 Chana dal sprig Curry
 slit Asafoetida
 Green Chilli Sauce
-Masoor Dal Onion
+Masoor Dal 
 tempering�
 Yellow Moong Dal Green Chillies
 White Urad Dal Curry
-Sooji Onion
-Tamarind Water Pearl onions
+Sooji
 White Urad Dal sprig Curry Salt
-butter Salt
+butter 
 Curry powder
 Purpose Flour Salt
 dosas
-few Salt
 Papad
 Garam masala powder Oil
-Turmeric powder Bay leaves
+Bay leaves
 spice powder
-Sugar Saffron strands
-Green peas Onions
+Green peas 
 roundels
 sprig Curry leaves
 Asafoetida sprig Curry Dry Red Chilli
-Salt Cardamom Pods
-Water Ghee
 mustard
 Fresh Green Toor Dal
 Chana dal Cashew nuts
@@ -754,7 +650,6 @@ Yellow Fenugreek Seeds
 Vinegar Salt
 gram Fish
 Asafoetida sprig Curry Dry Red Chillies
-Sugar Bay leaf
 Cinnamon Stick Curry
 chopped Green Chilli
 Hung Curd Salt
@@ -767,50 +662,36 @@ Poppy Cloves
 Methi Seeds Asafoetida
 Cashew nuts Sultana Raisins
 Seeds Cloves Bay leaves
-slit Garlic
 Arhar dal Green Chilli
-Cumin seeds Lemon
-Tamarind Water Ingredients
-Black pepper powder Onion
+Black pepper powder 
 Red Chilli powder Lemon
 florets Green Bell Pepper
-thin slices
-Garlic Salt
-Ginger cloves Garlic
 Cinnamon Stick Star anise
 Mint Leaves Green Chilli
 Methi Seeds Curry
-Mustard oil Onion
-Tomato Garlic
-Ghee Lemon
+Mustard oil 
 Britannia Cheese Spread
 Butter Bay leaf
 Kasuri Methi sprig Coriander Leaves
-Turmeric powder Tamarind
+Tamarind
 Kashmiri Rajma
 Ridge Gourd Skin
 SSP Asafoetida sprig Curry
 cubes Green Chillies
 Bathua leaves
-gram Paneer
-cubes Tomatoes
 Britannia Cheese Block
-Lilva Beans Onion
+Lilva Beans 
 big lemon
 Cinnamon Stick Black cardamom Cardamom Pods
-Basmati rice Onions
-Ginger Garlic Green Chilli
+Basmati rice 
 Long Green Brinjal
-Karela Onions
-garnish Ingredients
+Karela Onion
 Coriander Powder sprig Coriander Leaves
 Red Chilli powder Green Chilli
-large tomatoes
-Oil Dry Red Chilli
+Dry Red Chilli
 legs
 Kasuri Methi Coriander Leaves
 Pulao
-Gravy Onion
 Sesame seeds sprig Curry
 Mixed Herbs
 Black Peppercorns Green Chilli
@@ -819,26 +700,20 @@ Mustard seeds sprig Curry Green Chilli
 Green peas Green Bell Pepper
 Sultana Raisins Cashew nuts
 Flax
-Yellow Moong Dal Onion
+Yellow Moong Dal
 garnish Green Chillies
 Mustard greens
-Pearl onions Tomato
 Almonds Cashew nuts
-frozen
 Methi Seeds Dry Red Chilli
 Avocado
-few Dry Red Chillies
-Jowar Flour Onion
-Sugar ml Water
-Red Chilli Salt
+Jowar Flour
+Red Chilli
 semolina
-thick slices
 sprig Curry Dry Red Chillies
 ground Salt
-Methi Leaves Onion
+Methi Leaves
 Tapioca Flour
 Singoda Flour
-Singhade
 Chana dal Salt
 Asafoetida sprig Curry Dry Red Chillies Oil
 julienned
@@ -851,15 +726,14 @@ Seeds Cloves Cinnamon Stick
 Cinnamon Stick Cloves Bay leaves
 Leftover roti
 Kashmiri Red Chilli Powder Green Chilli
-Kabuli Chana Onion
+Kabuli Chana
 Kaffir lime leaves
 cheela
 Sorrel Leaves
 deep Salt
 flour
 Curd Green Chilli
-Cashew nuts Onion
-Saffron strands
+Cashew nuts
 Chettinad Masala
 Mace powder
 Achari masala
