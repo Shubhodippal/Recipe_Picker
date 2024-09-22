@@ -352,8 +352,6 @@ Watermelon
 Wheat Bread crumbs
 Wheat Brown Bread
 Wheat Flour
-Wheat Flour Salt
-Wheat Flour Water
 White Urad Dal
 White pepper powder
 Yellow Bell Pepper
