@@ -25,13 +25,12 @@ Barley
 Barnyard Millet
 Basmati rice
 Bathua leaves
-Bay leaf
-Bay leaves
+Bay leaf/leaves
 Beetroot
 Bhindi
 Biryani Masala
 Black Eyed Beans
-Black Pepper 
+Black Pepper
 Black Peppercorns
 Black Rice
 Black Salt
@@ -58,19 +57,11 @@ Byadagi Dried Chillies
 Cabbage
 Cardamom Pods
 Cardamom Powder
-Cardamom Powder Cashew nuts
-Cardamom Powder Mixed nuts
-Cardamom Powder Oil
-Cardamom Powder Saffron
-Cardamom Powder Saffron strands
-Cardamom Powder Salt
-Carrot
-Carrots
+Carrot/Carrots
 Cashew nuts
 Caster Sugar
 Cauliflower
 Chaat Masala Powder
-Chaat Masala Powder Salt
 Chana dal
 Chayote
 Cheese
@@ -95,13 +86,10 @@ Condensed Milk
 Cooked rice
 Cooking soda
 Coriander
-Coriander Green Chillies
 Coriander Leaves
 Coriander Powder
-Coriander Powder sprig Coriander Leaves
 Coriander Salt
 Coriander Seeds
-Coriander Seeds Cloves
 Corn flour
 Cucumber
 Cumin powder
@@ -117,31 +105,20 @@ Dessicated Coconut
 Dill leaves
 Dosa Batter
 Dosa rice
-Dough
 Dried Figs
 Drumstick
 Drumstick Leaves
 Dry Fruits
-Dry Red Chilli
-Dry Red Chillies
-Dry Red Chillies Garlic
+Dry Red Chilli/Chillies
 Dry coconut
 Dry ginger powder
-Dry ginger powder Salt
 Dumplings
-Egg
-Eggs
+Egg/Eggs
 Elephant yam
 Enos Fruit Salt
-Enos Fruit Salt Oil
-Enos Fruit Salt Salt
 Extra Virgin Olive Oil
 Fennel Powder
 Fennel seeds
-Fennel seeds Cardamom Pods
-Fennel seeds Onion
-Fennel seeds Salt
-Few sprigs
 Fish
 Fish fillet
 Flat Green Beans
@@ -156,13 +133,6 @@ Fresh cream
 Fresh cream Salt
 Fresh green chickpeas
 Garam masala powder
-Garam masala powder Bay leaf
-Garam masala powder Coriander Leaves
-Garam masala powder Green Chillies
-Garam masala powder Oil
-Garam masala powder Salt
-Garam masala powder Water
-Garam masala powder sprig Coriander Leaves
 Garlic
 Garlic Green Chillies
 Garnish
@@ -174,18 +144,12 @@ Ginger
 Gond
 Govind Bhog Rice
 Gram flour
-Grated
-Gravy
 Green Amaranth Leaves
 Green Bell Pepper
 Green Bell Peppers
 Green Chawli Beans
-Green Chilli
-Green Chilli Garlic
+Green Chilli/Chillies
 Green Chilli Sauce
-Green Chillies
-Green Chillies Garlic
-Green Chillies sprig Curry
 Green Chutney
 Green Moong Dal
 Green Moong Sprouts
@@ -198,10 +162,8 @@ Green peas Green Bell Pepper
 Green peas Green Chillies
 Green zucchini
 Greens Bay leaf
-Ground
 Groundnut powder
 Gulkand
-Handful
 Heavy whipping cream
 Hilsa Fish
 Homemade tomato puree
@@ -217,8 +179,6 @@ Jackfruit Raw
 Jackfruit Ripe
 Jackfruit Seeds
 Jaggery
-Jaggery Cardamom Pods
-Jaggery Salt
 Jowar Flour
 Jowar Seeds
 Kabuli Chana
@@ -233,14 +193,8 @@ Karela
 Karela Onion
 Kashmiri Rajma
 Kashmiri Red Chilli Powder
-Kashmiri Red Chilli Powder Green Chilli
-Kashmiri Red Chilli Powder Salt
 Kashmiri dry red chillies
 Kasuri Methi
-Kasuri Methi Coriander Leaves
-Kasuri Methi Oil
-Kasuri Methi Salt
-Kasuri Methi sprig Coriander Leaves
 Khoya
 Koftas
 Kokum
@@ -248,10 +202,6 @@ Lamb
 Leftover roti
 Lemon
 Lemon juice
-Lemon juice Coriander Leaves
-Lemon juice Oil
-Lemon juice Salt
-Lemon juice sprig Coriander Leaves
 Lemon wedges
 Lemons
 Lilva Beans
@@ -265,66 +215,32 @@ Makki Ka Atta
 Mangalorean cucumber
 Mango
 Mango Pulp
-Masala
 Masoor Dal
 Meat masala
 Melon
 Methi Leaves
 Methi Powder
 Methi Seeds
-Methi Seeds Asafoetida
-Methi Seeds Curry
-Methi Seeds Dry Red Chilli
-Methi Seeds Salt
-Methi Seeds sprig Curry
 Milk
 Milk Powder
 Mint Leaves
-Mint Leaves Green Chilli
-Mint Leaves Green Chillies
 Mixed Herbs
 Mixed nuts
-Mooli Ke Patte
 Mooli/ Mullangi
 Moth Dal
 Mozzarella cheese
 Mustard greens
 Mustard oil
-Mustard oil Coriander Leaves
 Mustard seeds
-Mustard seeds Asafoetida
-Mustard seeds Coriander Leaves
-Mustard seeds Curry
-Mustard seeds Curry Dry Red Chillies
-Mustard seeds Curry leaves
-Mustard seeds Dry Red Chilli
-Mustard seeds Dry Red Chilli sprig Curry
-Mustard seeds Dry Red Chillies
-Mustard seeds Dry Red Chillies Curry
-Mustard seeds Dry Red Chillies sprig Curry
-Mustard seeds Garlic
-Mustard seeds Green Chilli
-Mustard seeds Green Chillies
 Mustard seeds Oil
-Mustard seeds sprig Curry
-Mustard seeds sprig Curry Dry Red Chillies
-Mustard seeds sprig Curry Green Chilli
-Mustard seeds sprig Curry Salt
 Mutton
 Nutmeg
 Nutmeg powder
 Oats Flour
-Oil Bay leaf
-Oil Dry Red Chillies
-Oil Garlic
-Oil sprig Coriander Leaves
-Onion
-Onions
+Onion/Onions
 Palm jaggery
 Palm sugar
 Panch Phoran Masala
-Panch Phoran Masala Green Chillies
-Panch Phoran Masala Salt
 Paneer
 Papad
 Pav bhaji masala
@@ -339,14 +255,11 @@ Poha
 Pointed gourd
 Pomfret fish
 Poppy
-Poppy Cloves
 Poppy seeds
-Potato
-Potatoes
+Potato/Potatoes
 Prawns
 Pulao
 Purpose Flour
-Purpose Flour Salt
 Quinoa
 Ragi Flour
 Ragi Seeds
@@ -355,20 +268,11 @@ Rajma
 Rasam Powder
 Raw Banana
 Raw Peanuts
-Raw Peanuts sprig Curry
 Raw papaya
 Red Amaranth Leaves
 Red Bell pepper
 Red Chilli
 Red Chilli powder
-Red Chilli powder Bay leaf
-Red Chilli powder Coriander Leaves
-Red Chilli powder Green Chilli
-Red Chilli powder Green Chillies
-Red Chilli powder Lemon
-Red Chilli powder Oil
-Red Chilli powder cloves Garlic
-Red Chilli powder sprig Curry
 Red Chilli sauce
 Red Poha
 Red matta rice
@@ -386,8 +290,6 @@ Rolled Oats
 Rose Petals
 Rose water
 SSP Asafoetida
-SSP Asafoetida Salt
-SSP Asafoetida sprig Curry
 Sabudana
 Saffron
 Saffron strands
@@ -395,14 +297,10 @@ Salt
 Sambar Powder
 Sambar Powder Salt
 Sardine fish
-Seeds Bay leaf
-Seeds Bay leaves
+Seeds Bay leaf/leaves
 Seeds Black cardamom
 Seeds Cinnamon Stick
 Seeds Cloves
-Seeds Cloves Bay leaf
-Seeds Cloves Bay leaves
-Seeds Cloves Cinnamon Stick
 Seeds Dry Red Chillies
 Seeds Garlic
 Seeds Onion
@@ -413,7 +311,6 @@ Semiya
 Sesame Oil
 Sesame powder
 Sesame seeds
-Sesame seeds Salt
 Sev
 Shallots
 Shrimps
@@ -421,45 +318,36 @@ Singoda Flour
 Snake gourd
 Sooji
 Sorrel Leaves
-Soy
 Soy Chunks
 Soy sauce
 Soybeans
-Spinach
 Spinach Leaves
 Spring Onion
 Sugar
 Sugar Syrup
 Sultana Raisins
-Sultana Raisins
 Sundakkai
-Sweet Potato
-Sweet Potatoes
+Sweet Potato/Potatoes
 Sweet corn
 Tadka
 Tamarind
-Tamarind Salt
-Tamarind Water Tomatoes
+Tamarind Water
 Tandoori masala
 Tapioca Flour
 Tapioca root
-Temper
-Tempering
 Thandai Masala
 Thyme Leaves
 Tinda
 Tindora
 Tofu
-Tomato
+Tomato/Tomatoes
 Tomato Ketchup
 Turmeric powder
 Turnips
 Vanilla Extract
 Vellai Poosanikai
 Vinegar
-Vinegar Salt
 Walnuts
-Water Saffron strands
 Watermelon
 Wheat Bread crumbs
 Wheat Brown Bread
@@ -467,130 +355,46 @@ Wheat Flour
 Wheat Flour Salt
 Wheat Flour Water
 White Urad Dal
-White Urad Dal Asafoetida
-White Urad Dal Curry
-White Urad Dal Curry leaves
-White Urad Dal Dry Red Chilli
-White Urad Dal Dry Red Chillies
-White Urad Dal Dry Red Chillies sprig Curry
-White Urad Dal Green Chillies
-White Urad Dal Salt
-White Urad Dal sprig Curry
-White Urad Dal sprig Curry Dry Red Chilli
-White Urad Dal sprig Curry Salt
 White pepper powder
 Yellow Bell Pepper
 Yellow Fenugreek Seeds
 Yellow Moong Dal
-Yellow Moong Dal Green Chillies
-Yellow Moong Dal Salt
 Yellow mustard
-almonds
-batter
 big lemon
-big pieces
 blanched
-bone
-bones
-buttermilk
-cardamom Leaf
+bone/bones
+Cardamom Leaf
 cashews
 cheela
-chicken
-chopped Green Chilli
-chunks
-chunks cloves Garlic
-clove Garlic
-cloves
-cloves Garlic
-cloves Garlic Green Chillies
-coconut
-coconut masala
-coconut milk
-cubes Carrot
-cubes Green Chillies
 dal
 deep Salt
-dosa
-dosas
-dough
 dough Ghee
 dough Oil
-few Coriander Leaves
-few sprigs
-few strands
-florets
 florets Carrots
 florets Green Bell Pepper
 florets Onion
 florets Potatoes
 flour
-full cream
 full cream milk
-full fat
-garnish
-garnish Green Chillies
-garnish Salt
-garnish sprig Coriander Leaves
-garnishingCoriander Leaves
 gatte
-ghee Salt
 gooseberry
 gram Fish
-grated Coriander Leaves
 grated Salt
 green chillies
 green masala
 ground Salt
 ground masala
-juice sprig Coriander Leaves
-julienne
-julienned
-juliennes
 kadhi
-long strips
-marble sized ball
-marinade
-marination
 mortar
-mustard
-pan
-paneer
 parathas
-peel
 pestle
-pieces Tomatoes
-pinch�
 pistachios
-plate
-potatoes
-powdered
-powdered Salt
-pulp
-puree
-pureed
-rice
-roast
 roasted Salt
 rock salt
-roundels
 semolina
-shallow frying
-slit Asafoetida
-slit Cloves Cardamom Pods
-slit Salt
-slit cloves Garlic
-slit lengthwise
-slit sprig Curry
 soda
-spice powder
-sprig Coriander
-sprig Coriander Leaves
-sprig Curry
-sprig Curry Dry Red Chillies
-sprig Curry Oil
-sprig Curry Salt
-sprig Curry leaves
-sprig Mint Leaves
+Curry Oil
+Curry leaves
+Mint Leaves
 sugar syrup
 vegetable oil
